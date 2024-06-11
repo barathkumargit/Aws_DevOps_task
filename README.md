@@ -70,6 +70,4 @@ This documentation outlines the steps to set up a private network environment, p
    - Ensure that the services are running correctly.
 
 ### Conclusion:
-By following the steps outlined in this documentation, you will have successfully set up a private network environment, provisioned remote machines within that network using Terraform, and configured your application along with the database. This approach provides a scalable and secure infrastructure for hosting your applications and services.
-
-For more detailed instructions and troubleshooting, refer to the official documentation of AWS, Terraform, and the specific software components you are using.
+By following the steps outlined in this documentation, you will have successfully set up a private network environment, provisioned remote machines within that network using Terraform, and configured your application along with the database. This approach provides a scalable and secure infrastructure for hosting your applications and services
